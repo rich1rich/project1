@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f970fc6-ba7f-482f-a644-4b496a0ce430/dghvzgs-7a69719f-c1d3-4287-b25e-1c45dc37fb74.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJmOTcwZmM2LWJhN2YtNDgyZi1hNjQ0LTRiNDk2YTBjZTQzMFwvZGdodnpncy03YTY5NzE5Zi1jMWQzLTQyODctYjI1ZS0xYzQ1ZGMzN2ZiNzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6oailkhdtmbou-K3H-vnaliEV7IBzr9bPGOuXVqPACE);
+    background-size: 78%;
+    width: 100%;
+    height: 100vh;
+}
+.torch{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid red;
+    box-shadow: 0 0 20px 3px white
+    ,0 0 2000px 2000px black;
+    background-color: rgba(0 , 0 ,0 ,0);
+    position: absolute;
+  
+
+}
